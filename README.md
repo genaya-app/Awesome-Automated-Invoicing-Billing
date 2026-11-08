@@ -62,7 +62,7 @@ The table below catalogs proprietary automated invoicing and subscription billin
 
 ## 💻 Open-Source Solutions
 
-Self-hosted, transparent, and developer-friendly open-source alternatives for automated invoicing, subscription billing infrastructure, and accounting, sorted descending by GitHub star count:
+Self-hosted, transparent, and developer-friendly open-source alternatives for automated invoicing, subscription billing infrastructure, and accounting, sorted descending by GitHub Stars_Count:
 
 * [![Stars](https://img.shields.io/github/stars/midday-ai/midday?style=social&color=white)](https://github.com/midday-ai/midday/stargazers) **[Midday](https://github.com/midday-ai/midday)** — 🕒 Modern financial operating system for startups and freelancers with automated invoice creation, bank reconciliation, and file storage. Built with Next.js, Tailwind, and TypeScript.
 * [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) **[Lago](https://github.com/getlago/lago)** — ⚡ API-first open-source metering and usage-based billing infrastructure. Handles event ingestion, hybrid subscription logic, customer invoicing, and payment provider integrations (Stripe, Adyen).
